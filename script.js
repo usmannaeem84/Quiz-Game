@@ -16,9 +16,9 @@ const Questions = [
     {
         question: 'who is king?',
         answers: [
-            { text: "Virat Kholi", correct: false },
+            { text: "Virat Kholi", correct: true },
             { text: "Ben Stokes", correct: false },
-            { text: "Babar Azam", correct: true },
+            { text: "Babar Azam", correct: false },
             { text: "Kane Williamson", correct: false },
         ]
 
